@@ -3,6 +3,7 @@ from flask import Flask, request
 from os import urandom
 
 
+global message
 
 message = "Welcome to my website"
 
